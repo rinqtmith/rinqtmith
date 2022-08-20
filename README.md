@@ -4,6 +4,8 @@
 
 #### ⚡ Working on a personal project now...
 
+## 🔭 [rinqtf](https://rinqtf.vercel.app/)
+
 <!--
 **rinqtmith/rinqtmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
